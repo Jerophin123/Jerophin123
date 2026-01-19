@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I’m currently working on an AI-powered Waste Management System using deep learning.<br>🎊 I’m looking to collaborate on hackathons, UI/UX, and MERN stack projects.<br>🤝 I’m looking for help with advanced React and backend scaling.<br>🌱 I’m currently learning System Design and Microservices.<br>💬 Ask me about UI/UX, smart dashboards, or TorUnveil (email tracing tool).<br>⚡ Fun fact Won 2nd place at a symposium with just 3 hours of prep!<br><br>
+⚒️ I’m currently working on a MedicalPOS Using Springboot.<br>🎊 I’m looking to collaborate on hackathons, UI/UX, and MERN stack projects.<br>🤝 I’m looking for help with advanced React and backend scaling.<br>🌱 I’m currently learning System Design and Microservices.<br>💬 Ask me about UI/UX, smart dashboards, or TorUnveil (email tracing tool).<br>⚡ Fun fact Won 2nd place at a symposium with just 3 hours of prep!<br><br>
 
 
 ## 🌐 Socials:
