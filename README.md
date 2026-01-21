@@ -1,12 +1,135 @@
 # 💫 About Me:
-⚒️ I’m a Full-Stack Developer & UI/UX Designer building high-impact products, currently working on a Medical POS System using Spring Boot and REST APIs.<br>
-💼 Web Development Intern at Delphin Associates, where I contributed to responsive frontend features, UI/UX enhancements, and full-stack integrations.<br>
-📊 Data Science Intern at Geakminds, applying data analysis and machine learning workflows to solve real problems.<br>
-🎨 I specialize in crafting intuitive UI/UX and scalable web applications using React, MERN stack, Next.js, FastAPI, Express, and Spring Boot.<br>
-🤝 I’m open to collaboration on hackathons, design-driven builds, and full-stack projects that challenge and excite.<br>
-🌱 Actively learning System Design, Microservices, and backend scaling to build performant, scalable systems.<br>
-💬 Ask me about UI/UX design decisions, smart dashboards, or TorUnveil (email tracing tool).<br>
-⚡ Fun fact: Secured 2nd place at a technical symposium with just 3 hours of preparation!<br>
+# Hi, I'm Jerophin Stanley 👋  
+
+🚀 **Full-Stack Software Engineer | Spring Boot | React | UI/UX | System Design (Learning)**  
+
+I’m a software engineer focused on building **production-oriented, scalable applications** with clean architecture and strong user experience. I enjoy solving real-world problems end-to-end — from backend APIs and database design to polished UI/UX and deployment.
+
+I don’t just build projects to “learn tech” — I build systems that **simulate real business workflows**, performance constraints, and maintainability challenges.
+
+---
+
+## 🧭 Engineering Focus
+- Designing **RESTful backend services** with Spring Boot
+- Building **clean, responsive frontend interfaces** with React
+- Applying **UI/UX principles** to improve usability and clarity
+- Learning **System Design, Microservices, and backend scalability**
+- Writing maintainable, readable, and extensible code
+
+---
+
+## 🔨 Currently Working On
+### 🏥 Medical POS System (Production-Oriented)
+A full-stack healthcare billing and inventory management system designed around real-world medical workflows.
+
+**Key highlights:**
+- Role-based access control (Admin / Cashier / Staff)
+- REST APIs using **Spring Boot**
+- Secure authentication and authorization
+- Inventory & billing logic modeled for real clinics
+- Focus on scalability, modularity, and clean architecture
+
+> This project reflects how I approach **real software engineering**, not just academic demos.
+
+---
+
+## 💼 Internship Experience
+
+### 🌐 Web Development Intern — **Delphin Associates**
+- Developed responsive frontend components and UI features
+- Improved **UI/UX consistency and usability**
+- Assisted with backend integrations and API consumption
+- Worked in a team following real development workflows
+
+### 📊 Data Science Intern — **Geakminds**
+- Worked with **Python**, data analysis, and preprocessing pipelines
+- Applied machine learning concepts to practical datasets
+- Learned how data moves from raw input to usable insight
+
+> These internships strengthened my understanding of **production expectations, collaboration, and code quality**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Medical POS System
+Full-stack system focused on healthcare billing, inventory, and user roles  
+**Tech:** Spring Boot, REST APIs, MySQL, React
+
+### 🕵️ TorUnveil
+Email tracing and analysis tool emphasizing investigation workflows  
+**Tech:** Python, Networking concepts, Data processing
+
+### 📊 Smart Dashboards
+Interactive dashboards designed with strong UI/UX principles  
+**Tech:** React, Charts, UI/UX design
+
+### ♻️ AI-Based Waste Management System
+Smart waste classification using machine learning  
+**Tech:** Python, ML models, Data preprocessing
+
+> Each project prioritizes **problem clarity, usability, and maintainability**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React, HTML, CSS, JavaScript
+- UI/UX Design, Responsive Layouts
+
+**Backend**
+- Java, Spring Boot
+- REST APIs, Authentication, Business Logic
+
+**Databases**
+- MySQL, PostgreSQL
+
+**Tools & Practices**
+- Git & GitHub
+- Docker (basic)
+- Figma
+- Linux
+- Clean Code & Modular Design
+
+---
+
+## 🧠 What I’m Learning Now
+- System Design fundamentals
+- Microservices architecture
+- Backend scaling strategies
+- API performance & optimization
+- Designing for maintainability and growth
+
+---
+
+## 🏆 Achievements
+🥈 **2nd Place – Technical Symposium**  
+Delivered a working solution with **only 3 hours of preparation**, demonstrating fast learning, problem-solving, and execution under pressure.
+
+---
+
+## 🤝 Collaboration & Interests
+- Hackathons and product-driven builds  
+- Full-stack development projects  
+- UI/UX-focused engineering  
+- Open-source collaboration  
+
+💬 Ask me about:
+- UI/UX decisions
+- Backend architecture
+- REST API design
+- Smart dashboards
+- TorUnveil
+
+---
+
+## 📫 Let’s Connect
+🌐 Portfolio: https://jerophin-portfolio.vercel.app  
+🔗 LinkedIn: *https://www.linkedin.com/in/jerophin-d-r-b9a73b257/*  
+
+⭐ If you find my work interesting, feel free to explore my repositories or reach out!
+
 
 
 
