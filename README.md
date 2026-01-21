@@ -1,5 +1,13 @@
 # 💫 About Me:
-⚒️ I’m currently working on a Medical POS System Using Springboot.<br>🎊 I’m looking to collaborate on hackathons, UI/UX, and MERN stack projects.<br>🤝 I’m looking for help with advanced React and backend scaling.<br>🌱 I’m currently learning System Design and Microservices.<br>💬 Ask me about UI/UX, smart dashboards, or TorUnveil (email tracing tool).<br>⚡ Fun fact Won 2nd place at a symposium with just 3 hours of prep!<br><br>
+⚒️ I’m a Full-Stack Developer & UI/UX Designer building high-impact products, currently working on a Medical POS System using Spring Boot and REST APIs.<br>
+💼 Web Development Intern at Delphin Associates, where I contributed to responsive frontend features, UI/UX enhancements, and full-stack integrations.<br>
+📊 Data Science Intern at Geakminds, applying data analysis and machine learning workflows to solve real problems.<br>
+🎨 I specialize in crafting intuitive UI/UX and scalable web applications using React, MERN stack, Next.js, FastAPI, Express, and Spring Boot.<br>
+🤝 I’m open to collaboration on hackathons, design-driven builds, and full-stack projects that challenge and excite.<br>
+🌱 Actively learning System Design, Microservices, and backend scaling to build performant, scalable systems.<br>
+💬 Ask me about UI/UX design decisions, smart dashboards, or TorUnveil (email tracing tool).<br>
+⚡ Fun fact: Secured 2nd place at a technical symposium with just 3 hours of preparation!<br>
+
 
 
 ## 🌐 Socials:
