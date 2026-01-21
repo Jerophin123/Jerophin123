@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Jerophin Stanley 👋  
+# Hi, I'm Jerophin D R 👋  
 
 🚀 **Full-Stack Software Engineer | Spring Boot | React | UI/UX | System Design (Learning)**  
 
