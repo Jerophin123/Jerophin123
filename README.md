@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jerophin%20D%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Intelligent%20Systems%20%7C%20Full-Stack%20%26%20AI%2FML%20Engineer&descAlignY=62&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jerophin%20D%20R&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%2B%20AI%2FML%20Engineer%20%7C%20Scopus-Indexed%20Researcher&descAlignY=60&descSize=18)
 
 <div align="center">
 
