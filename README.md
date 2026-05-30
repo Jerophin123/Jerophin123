@@ -1,158 +1,328 @@
-# 💫 About Me:
-# Hi, I'm Jerophin D R 👋  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jerophin%20D%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Intelligent%20Systems%20%7C%20Full-Stack%20%26%20AI%2FML%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
-🚀 **Full-Stack Software Engineer | Spring Boot | React | UI/UX | System Design (Learning)**  
+<div align="center">
 
-I’m a software engineer focused on building **production-oriented, scalable applications** with clean architecture and strong user experience. I enjoy solving real-world problems end-to-end — from backend APIs and database design to polished UI/UX and deployment.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jerophin+D+R+%F0%9F%91%8B;Full-Stack+%2B+AI%2FML+Engineer+%F0%9F%A4%96;Scopus-Indexed+Researcher+%F0%9F%93%84;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-I don’t just build projects to “learn tech” — I build systems that **simulate real business workflows**, performance constraints, and maintainability challenges.
+[![Profile Views](https://komarev.com/ghpvc/?username=Jerophin123&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/Jerophin123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jerophin%20D%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerophin-d-r-b9a73b257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jerophin--portfolio-bf91f3?style=flat-square&logo=vercel&logoColor=white)](https://jerophin-portfolio.vercel.app)
+[![Behance](https://img.shields.io/badge/Behance-jerophinstanley-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/jerophinstanley)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Jerophinstanley-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Jerophinstanley/)
+[![Email](https://img.shields.io/badge/Email-jerophinstanley47%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jerophinstanley47@gmail.com)
 
----
-
-## 🧭 Engineering Focus
-- Designing **RESTful backend services** with Spring Boot
-- Building **clean, responsive frontend interfaces** with React
-- Applying **UI/UX principles** to improve usability and clarity
-- Learning **System Design, Microservices, and backend scalability**
-- Writing maintainable, readable, and extensible code
+</div>
 
 ---
 
-## 🔨 Currently Working On
-### 🏥 Medical POS System (Production-Oriented)
-A full-stack healthcare billing and inventory management system designed around real-world medical workflows.
+## 🧠 About Me
 
-**Key highlights:**
-- Role-based access control (Admin / Cashier / Staff)
-- REST APIs using **Spring Boot**
-- Secure authentication and authorization
-- Inventory & billing logic modeled for real clinics
-- Focus on scalability, modularity, and clean architecture
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-> This project reflects how I approach **real software engineering**, not just academic demos.
+```python
+class Jerophin:
+    def __init__(self):
+        self.name         = "Jerophin D R"
+        self.location     = "Chennai, Tamil Nadu, India 🇮🇳"
+        self.degree       = "B.E. Computer Science @ SJIT (CGPA: 8.3)"
+        self.role         = "Full-Stack + AI/ML Engineer"
+        self.email        = "jerophinstanley47@gmail.com"
+        self.github       = "Jerophin123"
 
----
+        self.stack = [
+            "Python", "JavaScript", "React", "Next.js",
+            "FastAPI", "TensorFlow", "PyTorch", "MongoDB"
+        ]
+        self.currently_learning = [
+            "MLOps & Production AI Pipelines",
+            "Advanced NLP & LLM Fine-tuning",
+            "Cloud Architecture (AWS / GCP)",
+            "Blockchain & Web3 Development"
+        ]
 
-## 💼 Internship Experience
+    def fun_fact(self):
+        return "I've published 2 Scopus-indexed papers while still in undergrad 🎓"
 
-### 🌐 Web Development Intern — **Delphin Associates**
-- Developed responsive frontend components and UI features
-- Improved **UI/UX consistency and usability**
-- Assisted with backend integrations and API consumption
-- Worked in a team following real development workflows
+    def motto(self):
+        return "Ship it. Learn from it. Make it better. 🚀"
 
-### 📊 Data Science Intern — **Geakminds**
-- Worked with **Python**, data analysis, and preprocessing pipelines
-- Applied machine learning concepts to practical datasets
-- Learned how data moves from raw input to usable insight
+me = Jerophin()
+print(me.motto())
+# Output: Ship it. Learn from it. Make it better. 🚀
+```
 
-> These internships strengthened my understanding of **production expectations, collaboration, and code quality**.
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 Medical POS System
-Full-stack system focused on healthcare billing, inventory, and user roles  
-**Tech:** Spring Boot, REST APIs, MySQL, React
-
-### 🕵️ TorUnveil
-Email tracing and analysis tool emphasizing investigation workflows  
-**Tech:** Python, Networking concepts, Data processing
-
-### 📊 Smart Dashboards
-Interactive dashboards designed with strong UI/UX principles  
-**Tech:** React, Charts, UI/UX design
-
-### ♻️ AI-Based Waste Management System
-Smart waste classification using machine learning  
-**Tech:** Python, ML models, Data preprocessing
-
-> Each project prioritizes **problem clarity, usability, and maintainability**.
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
 **Frontend**
-- React, HTML, CSS, JavaScript
-- UI/UX Design, Responsive Layouts
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend**
-- Java, Spring Boot
-- REST APIs, Authentication, Business Logic
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 **Databases**
-- MySQL, PostgreSQL
 
-**Tools & Practices**
-- Git & GitHub
-- Docker (basic)
-- Figma
-- Linux
-- Clean Code & Modular Design
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
----
+**Design & Tools**
 
-## 🧠 What I’m Learning Now
-- System Design fundamentals
-- Microservices architecture
-- Backend scaling strategies
-- API performance & optimization
-- Designing for maintainability and growth
-
----
-
-## 🏆 Achievements
-🥈 **2nd Place – Technical Symposium**  
-Delivered a working solution with **only 3 hours of preparation**, demonstrating fast learning, problem-solving, and execution under pressure.
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
-## 🤝 Collaboration & Interests
-- Hackathons and product-driven builds  
-- Full-stack development projects  
-- UI/UX-focused engineering  
-- Open-source collaboration  
+## 📊 GitHub Stats
 
-💬 Ask me about:
-- UI/UX decisions
-- Backend architecture
-- REST API design
-- Smart dashboards
-- TorUnveil
+<div align="center">
+
+<a href="https://github.com/Jerophin123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jerophin123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/Jerophin123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerophin123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jerophin123&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📫 Let’s Connect
-🌐 Portfolio: https://jerophin-portfolio.vercel.app  
-🔗 LinkedIn: *https://www.linkedin.com/in/jerophin-d-r-b9a73b257/*  
+## 📈 Activity Graph
 
-⭐ If you find my work interesting, feel free to explore my repositories or reach out!
+<div align="center">
 
+[![Jerophin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerophin123&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Jerophin123)
 
-
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/jero-stanley-123.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jerophinstanley) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jerophinstanley.jerophinstanley) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jero_stanley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerophin-d-r-b9a73b257) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jerophinstanley47) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jerophinstanley47) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Jerophin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kingofkings-583) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Jerophin583) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Jerophin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jerophinstanley47@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jerophin123&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jerophin123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerophin123&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jerophin123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jerophin123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jerophin123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jerophin123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 Geakminds Technologies — Data Science Intern &nbsp;|&nbsp; Jan 2026 – Mar 2026 &nbsp;|&nbsp; Chennai, India</b></summary>
+
+<br/>
+
+> `Python` `Scikit-learn` `FastAPI` `MLOps` `EDA` `Ensemble Models` `Pandas` `NumPy`
+
+- Executed the full ML lifecycle end-to-end — from data ingestion and exploratory data analysis to model training, evaluation, and deployment
+- Translated complex EDA findings into actionable business insights, directly informing strategic decision-making for clients
+- Optimized high-performance ensemble models, achieving significant improvements in predictive accuracy and inference speed
+- Deployed production-grade **FastAPI** pipelines with robust MLOps monitoring, ensuring reliability and observability in live environments
+
+</details>
+
+<details>
+<summary><b>🌐 Delphin Associates — Web Development Intern &nbsp;|&nbsp; May 2025 – Jun 2025 &nbsp;|&nbsp; Chennai, India</b></summary>
+
+<br/>
+
+> `React` `Vite` `FastAPI` `MongoDB` `Vercel` `SEO` `Google Analytics` `Microsoft Clarity`
+
+- Built and deployed Delphin Associates' full-stack website using **React + Vite** on the frontend and **FastAPI + MongoDB** on the backend
+- Integrated **Google Analytics** and **Microsoft Clarity** for real-time traffic monitoring and UX heatmap analysis
+- Implemented AI search visibility optimization and SEO best practices, boosting organic online discoverability
+- Achieved measurable uplift in online engagement and brand visibility post-launch
+
+</details>
+
+<details>
+<summary><b>💻 Trios Technologies — Web Development Intern &nbsp;|&nbsp; Jun 2024 – Jul 2024 &nbsp;|&nbsp; Chennai, India</b></summary>
+
+<br/>
+
+> `HTML5` `CSS3` `JavaScript` `JSP` `Apache Tomcat` `MySQL`
+
+- Constructed a full **Student Intern Management System** using HTML, CSS, JavaScript, and JSP with a MySQL backend
+- Improved data accuracy for intern records and reduced user drop-off by streamlining the data entry workflow
+- Delivered a production-ready web application within a 2-month internship window, meeting all stakeholder requirements
+- Gained hands-on experience in backend JSP templating and server-side rendering with Apache Tomcat
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:---|:---|:---|
+| [♻️ **Waste Management System**](https://github.com/Jerophin123) | Python · TensorFlow · Deep Learning · OpenCV | **92% accuracy** in AI waste classification; reduced manual sorting time by **60%**; Scopus-indexed publication |
+| [🌿 **RV Diagnose**](https://github.com/Jerophin123) | TensorFlow · Python · OpenCV · Flask | Detected **10+ plant diseases** with **90% model accuracy** using deep learning |
+| [🧠 **CortexaAI**](https://github.com/Jerophin123) | Python · TensorFlow · FastAPI · React | Automated early dementia detection & cognitive screening — eliminated diagnostic delays using AI |
+| [👁️ **Human Activity Monitoring**](https://github.com/Jerophin123) | Python · OpenCV · TensorFlow · Real-time | Improved workplace safety monitoring efficiency by **40%** via automated risk detection & instant alerts; Scopus-indexed |
+| [🗳️ **Vote-System**](https://github.com/Jerophin123) | Blockchain · Web3.js · Solidity · React | Tested with **100+ entries**; ensured **100% data integrity** via blockchain immutability |
+| [📱 **Now-Weather**](https://github.com/Jerophin123) | React Native · REST API · JavaScript | **100+ installs**, **95% crash-free** usage rate |
+| [🛒 **JDEL PC Factory**](https://github.com/Jerophin123) | React · Node.js · MongoDB · Tailwind CSS | Attracted **200+ users** in the first month through optimized custom PC builder UX |
+| [📊 **MCMA-Model**](https://github.com/Jerophin123) | FastAPI · Scikit-learn · Python · MLOps | Automated full ML lifecycle for marketing analytics, eliminating manual analysis bottlenecks |
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| 🎖️ | Achievement | Details |
+|:---:|:---|:---|
+| 🥈 | **IEEE Code Debugging Event** | 2nd Place — IEEE Technical Competition |
+| 🥈 | **Paper Presentation — Guru Nanak College** | 2nd Place in inter-college academic event |
+| 🥈 | **Overall Runner-up Trophy — GNC Symposium** | Contributed to winning the overall runner-up at Guru Nanak College Symposium |
+| 🥈 | **Data Preprocessing & Quantitative Graphs Event** | 2nd Place in data analytics challenge |
+| 🥉 | **Code Debugging — Dr. MGR Research Institute** | 3rd Place in competitive debugging event |
+| 🔬 | **Scopus-Indexed Publication #1** | *Waste Management System Using Deep Learning* |
+| 🔬 | **Scopus-Indexed Publication #2** | *Intelligent Real-Time Human Activity Monitoring and Unsafe Behavior System* |
+| ⚡ | **Hack-o-Mania 5.0** | Delivered functional prototype in **24 hours**, aligned with UN SDGs |
+| ⚡ | **Blaze-A-Trail 1.0 — SJIT** | Built innovative tech solution in a **24-hour hackathon** |
+| 📝 | **NCAT 2025 (Naukri Campus)** | Score: **28/60** · **100% attempt rate** · **56.79 percentile in Tamil Nadu** · Top scores in Verbal & Reasoning |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
+|:---|:---|:---:|:---:|
+| B.E. Computer Science | St. Joseph's Institute of Technology, OMR, Chennai | May 2026 | **CGPA: 8.3** |
+| HSC (Higher Secondary) | Holy Family Convent Matric Hr. Sec. School, Chennai | May 2022 | **77.5%** |
+| SSLC | Holy Family Convent Matric Hr. Sec. School, Chennai | Mar 2020 | **71.6%** |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```
+🤖 MLOps & Production AI Pipelines    →  Model monitoring, drift detection, CI/CD for ML
+🧠 Advanced NLP & LLM Fine-tuning     →  Transformers, PEFT, LoRA, RAG architectures
+☁️  Cloud Architecture                →  AWS SageMaker, GCP Vertex AI, serverless patterns
+⛓️  Blockchain & Web3                 →  Solidity, smart contracts, DeFi protocols
+🔐 Security Engineering               →  Zero-trust architecture, threat intelligence APIs
+📐 System Design                      →  Distributed systems, microservices, event-driven arch
+```
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202025%20AI%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude%20Code%20in%20Action-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20Certified%20Student-4285F4?style=flat-square&logo=google&logoColor=white)
+![Coursera Git](https://img.shields.io/badge/Intro%20to%20Git%20%26%20GitHub-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB%20Certified-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20%28LinkedIn%29-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![UX Coursera](https://img.shields.io/badge/User%20Experience%20%28Coursera%29-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma%20%28Udemy%29-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev%20%28LinkedIn%29-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Linguaskill](https://img.shields.io/badge/Linguaskill%20Level%20C1-0078D4?style=flat-square&logo=microsoftedge&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate!
+
+*Open to full-time roles, freelance projects, research collaborations, and hackathons.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerophin-d-r-b9a73b257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-bf91f3?style=for-the-badge&logo=vercel&logoColor=white)](https://jerophin-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerophinstanley47@gmail.com)
+[![Behance](https://img.shields.io/badge/Behance-Design%20Work-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jerophinstanley)
+
+<br/>
+
+*⭐ If you find my work useful, consider starring a repo — it means the world!*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
